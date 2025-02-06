@@ -10,7 +10,7 @@ class DigitalPetApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: DefaultTabController(
-        length: 4, // We are adding 4 tabs
+        length: 4, // We are   adding 4 tabs
         child: PetTabsScreen(),
       ),
     );
