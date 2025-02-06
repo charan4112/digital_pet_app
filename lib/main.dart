@@ -8,7 +8,7 @@ class DigitalPetApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Digital Pet',
+      title: 'Digi  tal Pet',
       theme: ThemeData(
         primarySwatch: Colors.blueGrey,
       ),
