@@ -70,7 +70,7 @@ class _PetTabsScreenState extends State<PetTabsScreen>
       happinessLevel = (happinessLevel + 5).clamp(0, 100);
     });
     ScaffoldMessenger.of(context).showSnackBar(
-      SnackBar(content: Text('You fed your pet!')),
+      SnackBar(content: Text('You  did fed your pet!')),
     );
   }
 
